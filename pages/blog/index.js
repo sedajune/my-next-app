@@ -1,8 +1,3 @@
-
 export default function Home() {
-    return (
-      <div>
-        my blog overview
-        </div>
-  }
-  
+  return <div>my blog overview</div>;
+}
